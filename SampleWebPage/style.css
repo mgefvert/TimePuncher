@@ -1,0 +1,4 @@
+﻿*        { font-family: Arial, sans-serif; }
+
+.logo    { position: fixed; right: 0; bottom: 0; opacity: 0.3; }
+.warning { background: red; }

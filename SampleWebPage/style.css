@@ -1,4 +1,4 @@
 ﻿*        { font-family: Arial, sans-serif; }
 
-.logo    { position: fixed; right: 0; bottom: 0; opacity: 0.3; }
-.warning { background: red; }
+.logo    { position: fixed; right: 0; bottom: 0; opacity: 0.3; z-index: -10}
+.warning { background-color: #FF574d; color: black; padding: 4px 6px;}
